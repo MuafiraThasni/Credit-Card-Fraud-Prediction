@@ -12,7 +12,7 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 
 ### Exploratory Data Analysis
-<img src="images/class_labels.png?raw=true"/>
+<img src="/class_labels.png?raw=true"/>
 
 <img src="images/tdd_transactions.png?raw=true"/>
 
